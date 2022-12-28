@@ -1,5 +1,64 @@
-div {
+/* div {
     display: inline;
     background-color: black;
     color: aliceblue;
+} */
+
+/* .unorder-list > .u-list {
+    list-style-type: circle;
 }
+.unorder-list > .u1 {
+    list-style-type: disc;
+}
+.unorder-list > .u2 {
+    list-style-type: none;
+}
+.unorder-list > .u3 {
+    list-style-type: square;
+}
+.decimal {
+    list-style-type: decimal;
+}
+.dec-zero {
+    list-style-type: decimal-leading-zero;
+}
+.lower-alpha {
+    list-style-type: lower-alpha;
+}
+.upper-alpha {
+    list-style-type: upper-alpha;
+}
+.lower-roman {
+    list-style-type: lower-roman;
+}
+.upper-roman {
+    list-style-type: upper-roman;
+} */
+
+/* ul {
+    list-style-image: url("image3.png");
+}
+li {
+    margin: 10px 0px 0px 0px;
+} */
+
+/* ul {
+    width: 150px;
+}
+li {
+    margin: 10px;
+}
+.illuminations {
+    list-style-position: inside;
+}
+.season {
+    list-style-position: outside;
+} */
+/* input:focus {
+    background-color: white;
+    border: 5px solid blue;} */
+    input:hover {
+        filter: brightness(100%);
+        transform: scale(1.4);
+        background-color: rgb(red, green, blue);   
+    }
